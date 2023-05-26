@@ -1,0 +1,7 @@
+dist
+bin
+node_modules
+packages
+src/api/functional
+README.md
+tsconfig.json

@@ -1,0 +1,10 @@
+.git/
+bin/
+lib/
+dist/
+.vscode/
+.github/
+node_modules/
+packages/api/lib/
+
+package-lock.json
